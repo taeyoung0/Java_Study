@@ -1,7 +1,7 @@
 package POLYTECH;
 
 
-public class program03 {
+public class Program03 {
 	public static void main(String[] args) 
 	{
 		int score = 80;
