@@ -1,6 +1,6 @@
 package POLYTECH;
 
-class Human
+ class Human
 {
 	String name;
 	int age;
@@ -78,7 +78,7 @@ class Citizen extends Student implements Money, Work
 	
 }
 
-public class program09 {
+public class Program09 {
 
 	public static void main(String[] args) {
 		Human p1 = new Human();
